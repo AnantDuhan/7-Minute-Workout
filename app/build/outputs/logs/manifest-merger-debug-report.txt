@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\9da14302aec3253f2fcf310b1c08d472\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\3ac627a3e49a8ff583429d645ff0d266\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\59fe550ca0f4ee0ec05b06aba6fa4862\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\5bba5dafe0bbb3ef02392f99c88ee85d\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\754f8d35dac9e0e8ac2fe96305b82c97\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\a67980bcd1e5daf8385b1a6775567d8b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\7e4a2768c73316174e5ee86baa8661de\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\946a4e9bafd20b4255d5dc3578b22656\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\c1e34c0982c1dbe0239e5c5ab85c16b4\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\385d9abd8453b410cb05feeae0978a29\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\73626130f56e0b455713ab284189c005\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\32db52a06324d5401272c357253103ae\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\7f00f8988bc93eb46c4feeab5bb3a1fd\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\a7d702cbe09670dd46dca6eea017e409\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\ebf7373cefb8e7f936edcf999ef16e2f\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\f76fe942f22b720e6e5f1e49cfa34115\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\35810514c3a6e4fc464f8134365fe448\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\155ed79bcf549ba6967a82328f03ac25\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\b0abd6ab41debd78554882e9f6affaa8\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\bb7e3b9045435ca958a20dbcd29737b3\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\e68e29f843a6903b04b79774f7ee174a\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\de3071e7e47dcc8b609ea1bb2092d1a5\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\c8e2c95e09cde0016a73bb7f299b111d\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\79125623642836b540f3cd07a39e006d\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\fdf2139d6d20194da096df7b9bb01384\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\9eed0aafbeca5d7044468b860d6362f8\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\f6eed581f15f2b205923e8cc9e5fd0b9\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\cf2673c2f04a9042ea02a273e8f37da3\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\0a9b7f7e36ebe1f854c39073649e8006\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\afd9f732f861d0d9479db001056b7f61\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\b071b4ed92a9abe940d63922c7472bba\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\68b486612ffc33076b6a54a414a0429d\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\e5653bbc51dd2ebe612f37a00e527227\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\12ad749c3c6cf3c1fda4f10e02946670\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\d1d62365f3488dc4cf7ea1fe06404ffe\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:6:5-51:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\9da14302aec3253f2fcf310b1c08d472\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\9da14302aec3253f2fcf310b1c08d472\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\5bba5dafe0bbb3ef02392f99c88ee85d\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\5bba5dafe0bbb3ef02392f99c88ee85d\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\c8e2c95e09cde0016a73bb7f299b111d\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\c8e2c95e09cde0016a73bb7f299b111d\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\fdf2139d6d20194da096df7b9bb01384\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\fdf2139d6d20194da096df7b9bb01384\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\c8e2c95e09cde0016a73bb7f299b111d\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:13:9-48
+	android:roundIcon
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.sevenminuteworkout.MainActivity
+ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:14:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:17:13-49
+	android:label
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:18:13-69
+	android:name
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.sevenminuteworkout.ExerciseActivity
+ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:26:9-29:72
+	android:screenOrientation
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:28:13-49
+	android:theme
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:27:13-45
+activity#com.sevenminuteworkout.FinishActivity
+ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:33:9-36:72
+	android:screenOrientation
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:34:13-43
+activity#com.sevenminuteworkout.BMIActivity
+ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:40:9-43:72
+	android:screenOrientation
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:42:13-49
+	android:theme
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:41:13-40
+activity#com.sevenminuteworkout.HistoryActivity
+ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:47:9-50:72
+	android:screenOrientation
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:49:13-49
+	android:theme
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:50:13-69
+	android:name
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml:48:13-44
+uses-sdk
+INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\9da14302aec3253f2fcf310b1c08d472\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\9da14302aec3253f2fcf310b1c08d472\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\3ac627a3e49a8ff583429d645ff0d266\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\3ac627a3e49a8ff583429d645ff0d266\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\59fe550ca0f4ee0ec05b06aba6fa4862\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\59fe550ca0f4ee0ec05b06aba6fa4862\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\5bba5dafe0bbb3ef02392f99c88ee85d\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\5bba5dafe0bbb3ef02392f99c88ee85d\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\754f8d35dac9e0e8ac2fe96305b82c97\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\754f8d35dac9e0e8ac2fe96305b82c97\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\a67980bcd1e5daf8385b1a6775567d8b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\a67980bcd1e5daf8385b1a6775567d8b\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\7e4a2768c73316174e5ee86baa8661de\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\7e4a2768c73316174e5ee86baa8661de\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\946a4e9bafd20b4255d5dc3578b22656\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\946a4e9bafd20b4255d5dc3578b22656\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\c1e34c0982c1dbe0239e5c5ab85c16b4\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\c1e34c0982c1dbe0239e5c5ab85c16b4\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\385d9abd8453b410cb05feeae0978a29\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\385d9abd8453b410cb05feeae0978a29\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\73626130f56e0b455713ab284189c005\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\73626130f56e0b455713ab284189c005\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\32db52a06324d5401272c357253103ae\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\32db52a06324d5401272c357253103ae\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\7f00f8988bc93eb46c4feeab5bb3a1fd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\7f00f8988bc93eb46c4feeab5bb3a1fd\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\a7d702cbe09670dd46dca6eea017e409\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\a7d702cbe09670dd46dca6eea017e409\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\ebf7373cefb8e7f936edcf999ef16e2f\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\ebf7373cefb8e7f936edcf999ef16e2f\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\f76fe942f22b720e6e5f1e49cfa34115\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\f76fe942f22b720e6e5f1e49cfa34115\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\35810514c3a6e4fc464f8134365fe448\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\35810514c3a6e4fc464f8134365fe448\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\155ed79bcf549ba6967a82328f03ac25\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\155ed79bcf549ba6967a82328f03ac25\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\b0abd6ab41debd78554882e9f6affaa8\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\b0abd6ab41debd78554882e9f6affaa8\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\bb7e3b9045435ca958a20dbcd29737b3\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\bb7e3b9045435ca958a20dbcd29737b3\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\e68e29f843a6903b04b79774f7ee174a\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\e68e29f843a6903b04b79774f7ee174a\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\de3071e7e47dcc8b609ea1bb2092d1a5\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\de3071e7e47dcc8b609ea1bb2092d1a5\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\c8e2c95e09cde0016a73bb7f299b111d\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\c8e2c95e09cde0016a73bb7f299b111d\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\79125623642836b540f3cd07a39e006d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\79125623642836b540f3cd07a39e006d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\fdf2139d6d20194da096df7b9bb01384\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\fdf2139d6d20194da096df7b9bb01384\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\9eed0aafbeca5d7044468b860d6362f8\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\9eed0aafbeca5d7044468b860d6362f8\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\f6eed581f15f2b205923e8cc9e5fd0b9\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\f6eed581f15f2b205923e8cc9e5fd0b9\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\cf2673c2f04a9042ea02a273e8f37da3\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\cf2673c2f04a9042ea02a273e8f37da3\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\0a9b7f7e36ebe1f854c39073649e8006\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\0a9b7f7e36ebe1f854c39073649e8006\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\afd9f732f861d0d9479db001056b7f61\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\afd9f732f861d0d9479db001056b7f61\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\b071b4ed92a9abe940d63922c7472bba\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\b071b4ed92a9abe940d63922c7472bba\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\68b486612ffc33076b6a54a414a0429d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\68b486612ffc33076b6a54a414a0429d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\e5653bbc51dd2ebe612f37a00e527227\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\e5653bbc51dd2ebe612f37a00e527227\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\12ad749c3c6cf3c1fda4f10e02946670\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\12ad749c3c6cf3c1fda4f10e02946670\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\d1d62365f3488dc4cf7ea1fe06404ffe\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\91707\.gradle\caches\transforms-2\files-2.1\d1d62365f3488dc4cf7ea1fe06404ffe\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\91707\Downloads\KidsDrawingApp_v6\7MinutesWorkout_v23\app\src\main\AndroidManifest.xml
